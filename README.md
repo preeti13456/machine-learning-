@@ -1,2 +1,3 @@
 # machine-learning-
-This repository conatins the data  science visualizations and exploartions, HAVE DONE IN FIELD OF DAT SCIENCE
+This repository conatins the data  science visualizations and exploartions, have done in field of data science
+
