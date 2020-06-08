@@ -1,2 +1,2 @@
 # machine-learning-
-with the help of azure microsoft learning studio trained a dataset and gotan api server key by deploying  the evaluated model.
+This repository conatins the data  science visualizations and exploartions, HAVE DONE IN FIELD OF DAT SCIENCE
